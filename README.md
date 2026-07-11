@@ -36,6 +36,3 @@ When executed successfully, the sorted collection produces the following clean t
 75
 85
 90
-
-Process returned 0 (0x0)   execution time : 0.082 s
-Press any key to continue.
