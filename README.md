@@ -4,7 +4,7 @@ A comprehensive implementation of an array-based **Ordered Collection** Abstract
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 The codebase follows standard object-oriented design and is divided into modular segments:
 
@@ -15,7 +15,7 @@ The codebase follows standard object-oriented design and is divided into modular
 
 ---
 
-## 🚀 Compilation & Setup
+## Compilation & Setup
 
 This repository is configured to compile directly using the **Code::Blocks IDE** with the **GNU GCC Compiler**.
 
@@ -27,7 +27,7 @@ This repository is configured to compile directly using the **Code::Blocks IDE**
 
 ---
 
-## 📊 Terminal Execution Output
+## Terminal Execution Output
 
 When executed successfully, the sorted collection produces the following clean terminal print sequences:
 
